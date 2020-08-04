@@ -28,7 +28,7 @@ linkedin_username: robin-girard-a88baa4
 github_username:  robingirard
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 permalink: /blog/:year/:month/:day/:title
