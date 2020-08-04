@@ -9,7 +9,7 @@ date: 2018-11-30
 \_____________________________________________
 
 <div>
-    <img class="marginauto" src="/assets/Un-Commencement.jpg"
+    <img class="marginauto" src="{{ '/assets/Un-Commencement.jpg' | prepend: site.baseurl }}"
     alt="centered image"
     width="500"/>
 </div>
