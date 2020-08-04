@@ -1,0 +1,39 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="follow-me">
+      <p>
+        Sur les réseaux sociaux:
+        {% include icon-rss.html %}
+
+        {% if site.github_username %}
+        {% include icon-github.html username=site.github_username %}
+        {% endif %}
+
+        {% if site.twitter_username %}
+        {% include icon-twitter.html username=site.twitter_username %}
+        {% endif %}
+
+        {% if site.linkedin_username %}
+        {% include icon-linkedin.html username=site.linkedin_username %}
+        {% endif %}
+
+        {% if site.stackexchange_username %}
+        {% include icon-stackexchange.html username=site.stackexchange_username %}
+        {% endif %}
+
+
+      </p>
+    </div>
+
+    <div class="license">
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+      </a>
+      Les articles de ce blog sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
+    </div>
+
+  </div>
+
+</footer>

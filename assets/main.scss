@@ -1,0 +1,88 @@
+---
+# Import the minima SCSS stylesheet and add customization
+---
+
+$content-width:    600px;
+$brand-color:      #29a3a3;
+
+@import "minima";
+
+$top-bar-background-color: #333333;
+
+
+/**
+ * Base style
+ */
+a {
+  color: darken($brand-color, 15%);
+  text-decoration: none;
+
+  &:visited {
+    color: darken($brand-color, 22%);
+  }
+
+  &:hover {
+    color: darken($brand-color, 22%);
+    text-decoration: underline;
+  }
+}
+
+p {
+  margin: 10px 50px 20px;
+}
+
+/**
+ * Site header
+ */
+.site-header {
+  border-top: unset;
+  border-bottom: unset;
+  background-color: $top-bar-background-color;
+  min-height: unset;
+}
+
+.site-title {
+  font-weight: unset;
+  letter-spacing: unset;
+  &,
+  &:visited {
+    color: $background-color;
+  }
+  &:hover {
+    color: $brand-color;
+  }
+}
+
+.site-nav {
+  background-color: $top-bar-background-color;
+
+  .menu-icon > svg > path {
+    fill: $background-color;
+  }
+
+  .trigger .page-link {
+    &,
+    &:visited {
+      color: $background-color;
+    }
+    &:hover {
+      color: $brand-color;
+    }
+  }
+}
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+  padding-top: 10px;
+
+  div {
+    text-align: center;
+  }
+
+  .license {
+    font-size: x-small;
+  }
+}
