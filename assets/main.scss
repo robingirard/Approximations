@@ -5,9 +5,12 @@
 $content-width:    600px;
 $brand-color:      #29a3a3;
 
-@import "minima";
+
+
+
 
 $top-bar-background-color: #333333;
+@import "minima";
 
 
 
@@ -31,6 +34,7 @@ a {
 p {
   margin: 10px 50px 20px;
 }
+
 
 /**
  * Site header
