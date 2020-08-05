@@ -16,7 +16,7 @@ date: 2019-03-17
 \________
 
 Un texte que j'ai d'abord publié <a href='https://fr.calameo.com/read/005818714746e3c6796f2'> ici </a> pour le journal <a href='http://leventreetloreille.com/'> "le ventre et l'oreille"</a>
-
+ <!--more-->
 <div style="text-align: right">
 <p>
   « Si vous voulez des leçons de modernité, n’écoutez pas les hérauts de l’avant-garde. Nul encore ne sait si leurs œuvres franchiront le cap du temps sans se ternir ; vous prenez avec eux un risque immense. Demandez plutôt au passé comment il s’y est pris pour nous transmettre des œuvres qui nous affolent encore par leur pouvoir de contestation. Que l’héritage culturel soit votre seul expert en modernité »
