@@ -42,7 +42,8 @@ plugins:
     - jekyll-feed
     - jekyll-redirect-from
     - jekyll-paginate
-
+    
+google_analytics: 'UA-131121573-1'
 minima:
   date_format: "%A %e %B %Y"
 
@@ -60,6 +61,8 @@ tagline:          'Philosophy, Music, Writting'
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+exclude:
+  - README.md
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
