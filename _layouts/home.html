@@ -7,6 +7,8 @@ layout: default
 For documents/pages whose URLs can change...
 [{{ page.title }}]("{{ page.url | relative_url }}")
 -->
+<body>
+  {% include analytics.html %}
 <div class="home">
 
 <p>
@@ -39,4 +41,5 @@ Quelques textes au fil des années, pour le plaisir de penser, écrire et échan
 </ul>
 
 </div>
+</body>
 <script id="dsq-count-scr" src="//https-robingirard-github-io.disqus.com/count.js" async></script>
