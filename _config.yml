@@ -28,6 +28,9 @@ lang: fr
 linkedin_username: robin-girard-a88baa4
 github_username:  robingirard
 stackexchange_username: robin.girard
+disqusid: robin.girard
+
+
 # Build settings
 markdown: kramdown
 theme: minima

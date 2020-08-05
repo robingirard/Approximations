@@ -5,5 +5,3 @@
 title:
 layout: home
 ---
-
-Quelques textes au fil des années, pour le plaisir de penser, écrire et échanger.
