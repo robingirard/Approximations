@@ -29,16 +29,26 @@ linkedin_username: robin-girard-a88baa4
 github_username:  robingirard
 stackexchange_username: robin.girard
 disqusid: robin.girard
-
+# Disqus Comments
+disqus_shortname: https-robingirard-github-io
 
 # Build settings
 markdown: kramdown
+kramdown:
+  extensions: ["tables"]
 theme: minima
 plugins:
     - jekyll-feed
+    - jekyll-redirect-from
+    - jekyll-paginate
 
 minima:
   date_format: "%A %e %B %Y"
+
+pages_list:
+  About: '/about/'
+
+tagline:          'Philosophy, Music, Writting'
 #permalink: /blog/:year/:month/:day/:title
 
 # Exclude from processing.
