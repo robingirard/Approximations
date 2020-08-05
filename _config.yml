@@ -42,7 +42,7 @@ plugins:
     - jekyll-feed
     - jekyll-redirect-from
     - jekyll-paginate
-    
+
 google_analytics: 'UA-131121573-1'
 minima:
   date_format: "%A %e %B %Y"
