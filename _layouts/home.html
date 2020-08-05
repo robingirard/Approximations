@@ -11,13 +11,14 @@ For documents/pages whose URLs can change...
 
 
 {{ content }}
-
+{{base_url }}
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       {% assign date_english = post.date | date: date_format %}
       {% include date-french.html %}
+
       <span class="post-meta">{{ date_french }}</span>
 
       <h2>
