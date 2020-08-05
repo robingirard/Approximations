@@ -30,7 +30,7 @@ github_username:  robingirard
 stackexchange_username: robin.girard
 disqusid: robin.girard
 # Disqus Comments
-disqus_shortname: https-robingirard-github-io-1
+disqus_shortname: https-robingirard-github-io
 
 # Build settings
 markdown: kramdown
