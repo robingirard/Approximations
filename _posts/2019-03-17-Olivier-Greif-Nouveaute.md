@@ -16,14 +16,14 @@ date: 2019-03-17
 \________
 
 Un texte que j'ai d'abord publié <a href='https://fr.calameo.com/read/005818714746e3c6796f2'> ici </a> pour le journal <a href='http://leventreetloreille.com/'> "le ventre et l'oreille"</a>
- <!--more-->
+
 <div style="text-align: right">
 <p>
   « Si vous voulez des leçons de modernité, n’écoutez pas les hérauts de l’avant-garde. Nul encore ne sait si leurs œuvres franchiront le cap du temps sans se ternir ; vous prenez avec eux un risque immense. Demandez plutôt au passé comment il s’y est pris pour nous transmettre des œuvres qui nous affolent encore par leur pouvoir de contestation. Que l’héritage culturel soit votre seul expert en modernité »
    --Journal intime d’Olivier Greif
 </p>
 </div>
-
+ <!--more-->
 
 <div style="text-align: justify">
      C’est grâce à une tournée hebdomadaire de l’ensemble des médiathèques de la ville de Grenoble que j’ai découvert une grande partie de la musique que j’écoute encore aujourd’hui.  A cette époque, au milieu des années 2000, je suis tombé au hasard d’un présentoir sur le compositeur pour lequel je voudrais partager mon affection : Olivier Greif. Le partage nourrit les émotions que les meilleures nouveautés nous apportent, et cela a manqué à ma récolte méticuleuse et naïve de disques aux quatre coins de Grenoble. Si j’en parle ici et maintenant, c’est aussi que malgré sa popularité croissante il est possible que vous n’ayez jamais entendu ni sa musique ni même son nom. L’élan que l’on éprouve pour la nouveauté n’est pas voué à disparaître avec l’âge, il faut juste soigner la place qu’on lui donne, prendre le temps de lire un article, écouter et réécouter une œuvre.
