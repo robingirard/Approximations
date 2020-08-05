@@ -27,6 +27,10 @@ url: "https://robingirard.github.io" # the base hostname & protocol for your sit
 lang: fr
 linkedin_username: robin-girard-a88baa4
 github_username:  robingirard
+social_links:
+      linkedin: robin-girard-a88baa4
+      github:  robingirard
+      facebook: robin.girard0
 stackexchange_username: robin.girard
 disqusid: robin.girard
 # Disqus Comments
@@ -42,7 +46,7 @@ plugins:
     - jekyll-feed
     - jekyll-redirect-from
     - jekyll-paginate
-
+    - jekyll-minima
 google_analytics: 'UA-131121573-1'
 minima:
   date_format: "%A %e %B %Y"
