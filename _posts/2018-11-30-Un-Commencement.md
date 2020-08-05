@@ -16,8 +16,12 @@ comments: True
 
 \________
 
+
+
 <div style="text-align: justify">
-     Aujourd’hui je commence, c’est un premier texte. Rien n’est encore écrit, et même si l’idée m’est venue hier en marchant, je sais bien qu’en en cherchant l’origine, je me perdrais à tirer par brides quelques fils de ma vie sans vraiment les démêler, et qu’il y aurait là une longue et ennuyeuse histoire. Au bout du compte, j’aurais à me plaindre de ne pas avoir parlé de commencement. Ce qui me presse à commencer c’est un besoin d’écriture, écrire pour penser et inscrire cette pratique aujourd’hui exutoire dans une démarche plus durable, un exercice presque régulier. Lire sera toujours pour moi un plaisir enrichissant, mais même si à dire ou écrire on prend le risque de paraître prétentieux, j'y trouve une posture difficile qui m'a toujours apporté et qui m’attire, et qui mérite en tout cas d’être explorée avant d’être jugée. Je repense à mes premières lectures philosophiques et au commencement qu’elles ont été, je ne le disais pas, je ne le savais même pas. Je crois que c’est ce qui se passe la plupart du temps, on déclare avoir commencé après coup parce que l’on n’a pas vu les choses venir ou parce qu’on n’a pas voulu prendre le risque de les dire.
+     Aujourd’hui je commence, c’est un premier texte. Rien n’est encore écrit, et même si l’idée m’est venue hier en marchant, je sais bien qu’en en cherchant l’origine, je me perdrais à tirer par brides quelques fils de ma vie sans vraiment les démêler, et qu’il y aurait là une longue et ennuyeuse histoire. Au bout du compte, j’aurais à me plaindre de ne pas avoir parlé de commencement. 
+    <!--more-->
+    Ce qui me presse à commencer c’est un besoin d’écriture, écrire pour penser et inscrire cette pratique aujourd’hui exutoire dans une démarche plus durable, un exercice presque régulier. Lire sera toujours pour moi un plaisir enrichissant, mais même si à dire ou écrire on prend le risque de paraître prétentieux, j'y trouve une posture difficile qui m'a toujours apporté et qui m’attire, et qui mérite en tout cas d’être explorée avant d’être jugée. Je repense à mes premières lectures philosophiques et au commencement qu’elles ont été, je ne le disais pas, je ne le savais même pas. Je crois que c’est ce qui se passe la plupart du temps, on déclare avoir commencé après coup parce que l’on n’a pas vu les choses venir ou parce qu’on n’a pas voulu prendre le risque de les dire.
 </div>
 
 <div style="text-align: justify">
