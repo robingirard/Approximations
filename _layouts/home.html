@@ -30,10 +30,9 @@ Quelques textes au fil des années, pour le plaisir de penser, écrire et échan
       <span class="post-meta">{{ date_french }}</span>
 
       <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} 
-        {{ post.excerpt }}
-        </a>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
       </h2>
+       {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
