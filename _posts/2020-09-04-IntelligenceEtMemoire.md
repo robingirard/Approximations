@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos intelligences - (1/3) - Intelligence mémoire"
+title: "Nos intelligences - (1/3) - Intelligence et mémoire"
 date: 2020-09-04
 comments: true
 ---
@@ -70,8 +70,8 @@ comments: true
     L’efficacité de notre nature, en particulier dans les premières années de notre vie, est aussi de ne pas laisser complètement l’utilité de tel ou tel de nos souvenirs résulter de calculs complexes, mais de s’en remettre à cette autre forme de mémoire, qui s’exprime par l'intensité de nos émotions ou quelques reflexes innés. Notre intelligence est d’apprendre à écouter l’une et l’autre, elle est aussi de comprendre ce qui les fonde, et comment s’articule cet équilibre entre souplesse et rigidité.
 </div>
 
-<div style="text-align: centered">
-*	*	*
+<div style="text-align: justify">
+    *	        *	        *
 </div>
 <div style="text-align: justify">
     Même s’ils sont entretenus par une terminologie sans cesse renouvelée à coup de big data ou de deep learning, les rêves et les cauchemars de la singularité n’arrivent pas aussi vite que le pensaient nos aînés des années 70. Les algorithmes et les structures qu’utilisent les machines ont bien une complexité grandissante, leur rapidité et leur taillent nous dépassent. Mais elles sont tout de même loin d’approcher la profondeur du cerveau humain, et leur grande force est avant tout d’être destinés à des tâches bien particulières. Nous vivons une époque palpitante où le temps semble s’accélérer, peut-être est-ce la marque du présent, mais nous nous y donnons des images trop grossières et naïves pour être autre chose que des abstractions. La singularité en est une avec son asymptote verticale du progrès technologique, on lui oppose celle de l’asymptote horizontale ou de la bosse des scénarios décroissants du club de Rome. Ces deux visions dépendent certainement de ce que l’on regarde précisément, de ce que l’on néglige, de notre tendance à l’optimisme ou au catastrophisme, et finalement de notre goût pour les images simplistes et les grandes prophéties. Elles peuvent aussi être deux facettes d’une même réalité, car si la puissance et la taille des machines augmentent chaque jour, elles ne peuvent contribuer à notre élévation qu’à la manière des grains de sable sur une dune. Chacun des nouveaux arrivant, toujours plus nombreux, y participent moins que ceux qui les soutiennent. Il y a dans le monde de l'ingénierie une expression que j’aime bien pour évoquer cette sorte de décroissance des rendements, c’est la “règle” des 80/20, les 20% des efforts que nous faisons en premier pour améliorer un système donnent 80% des résultats, alors que les 80% d’efforts restant ne permettent d’obtenir que les derniers 20% des résultats. Dans ce face-à-face homme machine qui tour à tour réprime ou exalte l’idée de progrès, d’effondrement ou de singularité, chaque évolution de la machine, plus poussée mais moins productive que la précédente, nous fait découvrir un peu mieux le raffinement de la machine humaine.
