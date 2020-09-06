@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intelligence et mémoire"
+title: "Intelligence - (1/3) -intelligence mémoire"
 date: 2020-09-04
 comments: true
 ---
@@ -8,6 +8,20 @@ comments: true
 
 \_____________________________________________
 
+
+
+
+
+
+<div style="text-align: justify">
+     Nos idées sur l’intelligence peuvent être décousues et difficiles à rassembler. <!--more--> Ce regard aiguisé suffisant à pénétrer simplement les esprits et les choses en donne une image romantique, là où d’autres sont mouvementées et folles, suffisamment pour friser les cheveux blancs des plus grands savants, ou bien silencieuses, presque figées par le calme froid du calcul et de l’anticipation. On peut y ajouter la trop longue liste de ces hommes dont le génie n’est plus à démontrer, Einstein, Hugo, Newton, Bach, Nietzsche, … leurs œuvres voyagent sans faiblir de génération en génération, leur intelligence ainsi diffusée façonnent nos pensées par des lignes profondes. Et puis il y a les tests qui la mesurent, quelques proverbes usés jusqu’à la corde combinés à ce qu’en dit la psychologie de couloir, de salle de bain, ou de machine à café, il y a des énarques-urologues-savants qui disent en détenir les clés et brodent une prophétie eugénique malsaine entre fantasme et trivialité. Certain y cherchent le salut et l’admiration, une forme de pouvoir ou juste de la reconnaissance, là où d’autres plus discrets et peut-être plus nombreux ont l’assurance heureuse de ne rien avoir à prouver. Ce que l’on croit être une grande intelligence n’est pourtant parfois pas beaucoup plus que notre petite faiblesse devant le pouvoir de séduction de savantes agitations ou face à l’ampleur du temps nécessaire à la compréhension des choses. Car l’intelligence s’impose dans l’illusion de la vitesse mais se construit avec le temps. Pour beaucoup, cela va des heures passées à l’examen minutieux d’une idée complexe, aux jours alors nécessaires à la prise de recul. Ce sont aussi les années qu’il faut pour se faire une image du monde, éprouver quelques gestes rassurants et parfaire une bonne éducation. Après cela, nos vies donnent la mesure, les chemins qu’y prennent des uns et des autres se suivent et se croisent pour tisser une intelligence collective dans le grand dialogue intérieur de notre humanité pensante. Ce temps donne parfois à l’intelligence une forme plus épurée : par la même illusion qu’entretiennent après coup les articulations de nos manuels d’histoire, elle s’ignore quasiment, devant la simple nécessité, l’expression d’une détermination sociale ou génétique, voire de quelques lois universelles. Bien au-delà de nos existences, se déploient les millions d’années, à la fois indispensables à son évolution et juge implacable de sa maturité.
+</div>
+
+<div style="text-align: justify">
+    Mais l’intelligence est aussi cette faculté de dépasser l’héritage ou l’habitude par surprise, pour les adapter à une réalité plus saillante. Dans ce qu’elle a de plus vivant, elle est notre capacité à déjouer naturellement toute situation radicalement nouvelle, ou comme le disait Piaget non “ pas ce que l’on sait mais ce que l’on fait quand on ne sait pas”.  Art de faire, de choisir, art d’agir, d’imaginer, de probabiliser, d’anticiper, de construire, …  Je n’ai pas l’ambition d’approcher le bout du compte ni de faire le tour complètement de quelque chose qui me dépasse, mais j’ai comme beaucoup le désir de me bâtir une idée ou deux, pas vraiment moins décousues que d’autres, sur les tests de QI, la prise de pouvoir des machines, l’eugénisme menaçant et quelques rouages de notre intelligence collective. Voilà trois textes à venir, le premier parle de mémoire.
+</div>
+
+## Intelligence et mémoire
 
 <div style="text-align: right">
 <p>
@@ -19,18 +33,6 @@ comments: true
   <br>Napoléon Bonaparte
 </p>
 </div>
-
-<!--more-->
-
-<div style="text-align: justify">
-     Nos idées sur l’intelligence peuvent être décousues et difficiles à rassembler. Ce regard aiguisé suffisant à pénétrer simplement les esprits et les choses en donne une image romantique, là où d’autres sont mouvementées et folles, suffisamment pour friser les cheveux blancs des plus grands savants, ou bien silencieuses, presque figées par le calme froid du calcul et de l’anticipation. On peut y ajouter la trop longue liste de ces hommes dont le génie n’est plus à démontrer, Einstein, Hugo, Newton, Bach, Nietzsche, … leurs œuvres voyagent sans faiblir de génération en génération, leur intelligence ainsi diffusée façonnent nos pensées par des lignes profondes. Et puis il y a les tests qui la mesurent, quelques proverbes usés jusqu’à la corde combinés à ce qu’en dit la psychologie de couloir, de salle de bain, ou de machine à café, il y a des énarques-urologues-savants qui disent en détenir les clés et brodent une prophétie eugénique malsaine entre fantasme et trivialité. Certain y cherchent le salut et l’admiration, une forme de pouvoir ou juste de la reconnaissance, là où d’autres plus discrets et peut-être plus nombreux ont l’assurance heureuse de ne rien avoir à prouver. Ce que l’on croit être une grande intelligence n’est pourtant parfois pas beaucoup plus que notre petite faiblesse devant le pouvoir de séduction de savantes agitations ou face à l’ampleur du temps nécessaire à la compréhension des choses. Car l’intelligence s’impose dans l’illusion de la vitesse mais se construit avec le temps. Pour beaucoup, cela va des heures passées à l’examen minutieux d’une idée complexe, aux jours alors nécessaires à la prise de recul. Ce sont aussi les années qu’il faut pour se faire une image du monde, éprouver quelques gestes rassurants et parfaire une bonne éducation. Après cela, nos vies donnent la mesure, les chemins qu’y prennent des uns et des autres se suivent et se croisent pour tisser une intelligence collective dans le grand dialogue intérieur de notre humanité pensante. Ce temps donne parfois à l’intelligence une forme plus épurée : par la même illusion qu’entretiennent après coup les articulations de nos manuels d’histoire, elle s’ignore quasiment, devant la simple nécessité, l’expression d’une détermination sociale ou génétique, voire de quelques lois universelles. Bien au-delà de nos existences, se déploient les millions d’années, à la fois indispensables à son évolution et juge implacable de sa maturité.
-</div>
-
-<div style="text-align: justify">
-    Mais l’intelligence est aussi cette faculté de dépasser l’héritage ou l’habitude par surprise, pour les adapter à une réalité plus saillante. Dans ce qu’elle a de plus vivant, elle est notre capacité à déjouer naturellement toute situation radicalement nouvelle, ou comme le disait Piaget non “ pas ce que l’on sait mais ce que l’on fait quand on ne sait pas”.  Art de faire, de choisir, art d’agir, d’imaginer, de probabiliser, d’anticiper, de construire, …  Je n’ai pas l’ambition d’approcher le bout du compte ni de faire le tour complètement de quelque chose qui me dépasse, mais j’ai comme beaucoup le désir de me bâtir une idée ou deux, pas vraiment moins décousues que d’autres, sur les tests de QI, la prise de pouvoir des machines, l’eugénisme menaçant et quelques rouages de notre intelligence collective. Voilà trois textes à venir, le premier parle de mémoire.
-</div>
-
-## Intelligence et mémoire
 
 <div style="text-align: justify">
      La rapidité d’exécution est un élément essentiel mesuré par les tests d’intelligence. Toutes les cultures ne partagent pas là les mêmes points de repère, mais la sagesse de la lenteur y tient rarement la meilleure place. C’est la rapidité de calcul de la machine et son évolution donnée par la fameuse loi de Moore, aussi inéluctable qu’invraisemblable, qui laissent certains penser qu’un jour, la machine pourrait-être plus intelligente que l’homme. J’ai sans doute trop répété mes fables pour croire plus au lièvre qu’à la tortue, mais il faut admettre qu’il y a toujours une course à gagner lorsqu’on va vite et que l’on sait où aller. L’intelligence n’est évidemment pas de gagner tout ou n’importe quoi le plus vite possible, trouver son propre rythme est préférable tout autant que d’éviter les courses vaines.  Une certaine pratique de vitesse est bien souvent utile à l’exploration, mais elle peut aussi n’être qu’une paresse devant la profusion de détails, immiscés comme la musique entre les notes, ou une excitation grisante et grossière. Au-delà de la complexité toujours plus grande nécessaire à approcher notre intelligence, des limites physiques à la loi de Moore pourraient bien commencent à s’affirmer, elles sont liées à la taille des circuits et à l’énergie nécessaire au fonctionnement de nos machines. Dans un monde où matière et énergie ne sont pas infinies, l’intelligence du corps humain est de pouvoir exécuter des tâches complexes, en utilisant une subtile architecture de connexions branchée sur 20 Watt tout au plus, là où la machine s’illustre sans nuance et parfois sans économie, dans une grande démonstration de puissance.
