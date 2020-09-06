@@ -25,12 +25,12 @@ comments: true
 
 <div style="text-align: right">
 <p>
+  <br>« Qui prend le plus d'images dans sa mémoire est celui qui a le plus d'imagination. »
+  <br>Napoléon Bonaparte
+
   <br> «  Les mémoires excellentes se joignent volontiers aux jugements débiles.  »
   <br> Michel de Montaigne
   <br>
-
-  <br>« Qui prend le plus d'images dans sa mémoire est celui qui a le plus d'imagination. »
-  <br>Napoléon Bonaparte
 </p>
 </div>
 
