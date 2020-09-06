@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intelligence et mémoire"
-date: 2019-04-17
+date: 2020-09-04
 comments: true
 ---
 
