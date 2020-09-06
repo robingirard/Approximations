@@ -5,10 +5,15 @@ date: 2020-09-04
 comments: true
 ---
 
-
 \_____________________________________________
 
+<div>
+    <img class="marginauto" src="{{ '/assets/DSCF4575.jpg' | prepend: site.baseurl }}"
+    alt="centered image"
+    width="500"/>
+</div>
 
+\________
 
 
 
