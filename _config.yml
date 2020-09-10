@@ -23,7 +23,7 @@ email: robin.girard@mines-paristech.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Quelques pensées écrites au fil des années
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://robingirard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robingirard.github.io/Approximations/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fr
 linkedin_username: robin-girard-a88baa4
 github_username:  robingirard
