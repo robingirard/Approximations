@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos intelligences - (2/XX) -- L’intelligence de ces liens qui libèrent"
+title: "Nos intelligences - (2/) -- L’intelligence de ces liens qui libèrent"
 date: 2022-08-06
 comments: true
 ---

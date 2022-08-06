@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos intelligences - (1/XX) - Intelligence et mémoire"
+title: "Nos intelligences - (1/) - Intelligence et mémoire"
 date: 2020-09-04
 comments: true
 ---
