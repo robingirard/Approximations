@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos intelligences - (1/3) - Intelligence et mémoire"
+title: "Nos intelligences - (1/XX) - Intelligence et mémoire"
 date: 2020-09-04
 comments: true
 ---
@@ -23,7 +23,7 @@ comments: true
 </div>
 
 <div style="text-align: justify">
-    Mais l’intelligence est aussi cette faculté de dépasser l’héritage ou l’habitude par surprise, pour les adapter à une réalité plus saillante. Dans ce qu’elle a de plus vivant, elle est notre capacité à déjouer naturellement toute situation radicalement nouvelle, ou comme le disait Piaget non “pas ce que l’on sait mais ce que l’on fait quand on ne sait pas”.  Art de faire, de choisir, art d’agir, d’imaginer, de probabiliser, d’anticiper, de construire, …  Je n’ai pas l’ambition d’approcher le bout du compte ni de faire le tour complètement de quelque chose qui me dépasse, mais j’ai comme beaucoup le désir de me bâtir une idée ou deux, pas vraiment moins décousues que d’autres, sur les tests de QI, la prise de pouvoir des machines, l’eugénisme menaçant et quelques rouages de notre intelligence collective. Voilà trois textes à venir, le premier parle de mémoire.
+    Mais l’intelligence est aussi cette faculté de dépasser l’héritage ou l’habitude par surprise, pour les adapter à une réalité plus saillante. Dans ce qu’elle a de plus vivant, elle est notre capacité à déjouer naturellement toute situation radicalement nouvelle, ou comme le disait Piaget non “pas ce que l’on sait mais ce que l’on fait quand on ne sait pas”.  Art de faire, de choisir, art d’agir, d’imaginer, de probabiliser, d’anticiper, de construire, …  Je n’ai pas l’ambition d’approcher le bout du compte ni de faire le tour complètement de quelque chose qui me dépasse, mais j’ai comme beaucoup le désir de me bâtir une idée ou deux, pas vraiment moins décousues que d’autres, sur les tests de QI, la prise de pouvoir des machines, l’eugénisme menaçant et quelques rouages de notre intelligence collective. Voilà quelques textes à venir, le premier parle de mémoire.
 </div>
 
 ## Intelligence et mémoire
