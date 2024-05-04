@@ -8,7 +8,7 @@ comments: true
 \_____________________________________________
 
 <div>
-    <img class="marginauto" src="{{ '/assets/Reseau.jpg' | prepend: site.baseurl }}"
+    <img class="marginauto" src="{{ '/assets/DSCF8556.jpg' | prepend: site.baseurl }}"
     alt="centered image"
     width="500"/>
 </div>
@@ -97,5 +97,5 @@ _____________________________________________
 
 
 <div style="text-align: justify">
-   Le chiffre doit jouer un rôle important dans cette exigence, mais à la condition qu’il renonce à toute souveraineté. Ce n’est pas l’utilisation du chiffre qui fait l’exigence, mais l’exigence qui peut pousser à la quantification, et ce qu’elle permet est immense, souvent indispensable, parfois démesuré. L’exigence qu’elle requière doit l’être encore plus. 
+   Le chiffre doit jouer un rôle important dans cette exigence, mais à la condition qu’il renonce à toute souveraineté. Ce n’est pas l’utilisation du chiffre qui fait l’exigence, mais l’exigence qui peut pousser à la quantification, et ce qu’elle permet est immense, souvent indispensable, parfois démesuré. L’exigence qu’elle requière doit l’être encore plus.
 </div>
