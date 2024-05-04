@@ -18,7 +18,7 @@ comments: true
 
 
 <div style="text-align: justify">
-En leur temps, les tests de Binet avaient pour but de détecter les élèves en difficulté comme on détecte aujourd’hui nos PAP, pour leur donner une assistance supplémentaire afin qu’ils ne soient pas complètement rejetés ou marginalisés. Piaget est sans doute un des meilleurs héritiers de Binet, penseur de la complexité du vivant et fin observateur de la genèse de l’intelligence chez l’enfant. Il remarque que la puissance de ces tests,  <!--more-->  introduits au début du siècle dernier, repose sur une idée forte et juste mais que le temps semble avoir un peu raboté :
+En leur temps, les tests de Binet avaient pour but de détecter les élèves en difficulté comme on détecte aujourd’hui nos PAP, pour leur donner une assistance supplémentaire afin qu’ils ne soient pas complètement rejetés ou marginalisés. Piaget est sans doute un des meilleurs héritiers de Binet, penseur de la complexité du vivant et fin observateur de la genèse de l’intelligence chez l’enfant. Il remarque que la puissance de ces tests,   introduits au début du siècle dernier, repose sur une idée forte et juste mais que le temps semble avoir un peu raboté : <!--more--> 
 </div>
 
 
