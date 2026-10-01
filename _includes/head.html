@@ -5,19 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131121573-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-  gtag('config', 'UA-131121573-1');
-</script>
-
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+  {%- if site.goatcounter and jekyll.environment == 'production' %}
+  <!-- Mesure d'audience GoatCounter, sans cookie (remplace Universal Analytics, fermé par Google en 2023) -->
+  <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  {%- endif %}
   <!--mathjax start-->
   <script type="text/x-mathjax-config">
    MathJax.Hub.Config({

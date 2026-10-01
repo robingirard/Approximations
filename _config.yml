@@ -47,7 +47,7 @@ plugins:
     - jekyll-redirect-from
     - jekyll-paginate
     - jekyll-minima
-google_analytics: 'UA-131121573-1'
+goatcounter: lepresquetout # tableau de bord : https://lepresquetout.goatcounter.com
 minima:
   date_format: "%A %e %B %Y"
 
